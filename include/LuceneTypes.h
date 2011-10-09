@@ -7,7 +7,8 @@
 #ifndef LUCENETYPES_H
 #define LUCENETYPES_H
 
-#include "Lucene.h"
+#import <boost/smart_ptr/shared_ptr.hpp>
+#import <boost/smart_ptr/weak_ptr.hpp>
 
 #define DECLARE_SHARED_PTR(Type) \
     class Type; \
