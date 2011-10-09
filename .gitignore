@@ -54,3 +54,4 @@ src/demo/searchfiles/msvc/Release DLL
 src/demo/searchfiles/msvc/Release Static
 src/demo/searchfiles/msvc/Debug DLL
 src/demo/searchfiles/msvc/Debug Static
+.svn/
