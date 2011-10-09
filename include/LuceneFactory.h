@@ -8,7 +8,6 @@
 #define LUCENEFACTORY_H
 
 #include <boost/make_shared.hpp>
-#include <boost/version.hpp>
 
 namespace Lucene
 {
